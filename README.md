@@ -49,6 +49,8 @@ You can install these dependencies using `pip`
 
 ### Dataset
 
+https://www.kaggle.com/datasets/phylake1337/fire-dataset
+
 To train and test the fire detection model, you will need a dataset of images containing both fire and non-fire images. Organize your dataset into two separate folders: `fire` and `non-fire`, and place them inside a directory called `fire_dataset`. Ensure that the dataset structure looks like this:
 
 ```
